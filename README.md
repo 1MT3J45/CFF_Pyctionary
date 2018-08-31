@@ -13,5 +13,5 @@ If you are of such belief, then you just need to create a _.pyc_ file iut of the
 
 As of now, I want you to go ahead and try out using regular `python pyctionary.py` way.
 
--Tejas
+-Tejas  
 Pythoneer
